@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "../../../../../ECAL_MID1_2024-main 5/ECAL_MID1_2024-main/02_Trigonometrie/Lissajou/css"
+		},
+		{
+			"name": "06_SoundAnalyzer",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5504,
+		"liveServer.settings.multiRootWorkspaceName": "06_SoundAnalyzer"
+	}
+}
